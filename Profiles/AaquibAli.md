@@ -17,6 +17,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=AaquibAli&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
   
+  
  - 🔭 A First Year Undergrad, Programmer, Developer!!
 - 🌱 Currently learning Javascript
 - 🤝 2021 Goals: Contribute more to Open Source projects
