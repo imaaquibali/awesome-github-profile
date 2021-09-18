@@ -1,7 +1,7 @@
 <h1 align="center"> Awesome Readme Profiles </h1>
 
 <p align="center">Check these awesome, stylish and amazing readme files and make your own readme files like these. <br>
-  Don't forget to star ⭐ </p>
+ Don't forget to leave ⭐ if you find this repo useful </p>
 
 ## ❓ Why this Repo?
 The aim of this repository is to collect awesome [READMEs](https://github.com/AaquibAli/AaquibAli) that developers around the world are using on their own profiles to act as an inspiration for others.
