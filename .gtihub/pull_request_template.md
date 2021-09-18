@@ -1,4 +1,4 @@
-The markdown file must fulfill these conditions:
+The markdown file must fulfill these conditions :
 
 - [ ] The name of the readme file is your **username.md** if you are making a new creative readme.
 - [ ] The name of the readme file is the person's username from where it is inspired from.
