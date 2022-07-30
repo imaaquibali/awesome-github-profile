@@ -4,7 +4,7 @@
  Don't forget to leave ⭐ if you find this repo useful 🙃</p>
 
 <p align="center">
-    <a href="" alt="Follow Now">
+    <a href="https://twitter.com/imaaquibali" alt="Follow Now">
     <img src="https://img.shields.io/twitter/follow/imaaquibali?label=imaaquibali&style=social" /></a>
 </p>
 
