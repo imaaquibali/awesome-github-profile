@@ -3,6 +3,11 @@
 <p align="center">Check these awesome, stylish and amazing readme files and make your own readme files like these. <br>
  Don't forget to leave ⭐ if you find this repo useful 🙃</p>
 
+<p align="center">
+    <a href="" alt="Follow Now">
+    <img src="https://img.shields.io/twitter/follow/imaaquibali?label=imaaquibali&style=social" /></a>
+</p>
+
 ## ❓ Why this Repo?
 The aim of this repository is to collect awesome [READMEs](https://github.com/AaquibAli/AaquibAli) that developers around the world are using on their own profiles to act as an inspiration for others.
 
