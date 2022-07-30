@@ -4,8 +4,11 @@
  Don't forget to leave ⭐ if you find this repo useful 🙃</p>
 
 <p align="center">
+    <img src="https://img.shields.io/apm/l/vim-mode" /></img>
+    <a href="https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/imaaquibali/Awesome-GitHub-README-Profiles" /></img></a>
     <a href="https://twitter.com/imaaquibali" alt="Follow Now">
-    <img src="https://img.shields.io/twitter/follow/imaaquibali?label=imaaquibali&style=social" /></a>
+    <img src="https://img.shields.io/twitter/follow/imaaquibali?label=Follow&style=social" /></a>
 </p>
 
 ## ❓ Why this Repo?
