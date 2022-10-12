@@ -157,7 +157,7 @@ Moody is licensed under the MIT License - see the [LICENSE](LICENSE) file for de
 
 Thanks a lot for spending your time helping Moody grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=imaaquibali/Awesome-GitHub-README-Profiles)](https://github.com/Susmita-Dey/Moody-website/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=imaaquibali/Awesome-GitHub-README-Profiles)](https://github.com/imaaquibali/Awesome-GitHub-README-Profiles/graphs/contributors)
 
 ## Support 🙏 <a name = "support"></a>
 
