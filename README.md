@@ -161,4 +161,4 @@ Thanks a lot for spending your time helping Moody grow. Thanks a lot! Keep rocki
 
 ## Support 🙏 <a name = "support"></a>
 
-This project needs a ⭐️ from you. Don't forget to leave a star ⭐. Also feel free to [sponsor](https://github.com/sponsors/Susmita-Dey) us.
+This project needs a ⭐️ from you. Don't forget to leave a star ⭐. Also feel free to [sponsor](https://github.com/sponsors/imaaquibali) us.
