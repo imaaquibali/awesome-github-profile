@@ -1,5 +1,5 @@
 ---
-name: Custom
+name: 👽 Custom
 about: Create a issue to help us to improve this project ✨
 title: ''
 labels: ''
