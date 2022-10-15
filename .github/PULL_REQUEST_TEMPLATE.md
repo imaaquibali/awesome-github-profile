@@ -1,10 +1,11 @@
 ## What type of PR is this? (check all applicable)
 
+- Check according to your PR
 
-- [ ] 🚀 Added Name
-- [ ] ✨ Feature
+- [ ] 🚀 Added Profile
+- [ ] ✨ Feature Request    
 - [ ] ✅ Joined Community
-- [ ] 🌟 ed the repo
+- [ ] 🌟 Stared the repo
 - [ ] 🐛 Grammatical Error
 - [ ] 📝 Documentation Update
 - [ ] 🚩 Other
