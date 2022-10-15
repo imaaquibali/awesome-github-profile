@@ -20,6 +20,8 @@
 
 <!-- <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img> -->
 
+[![English](https://img.shields.io/badge/Language-English-green?style=for-the-badge)](README.md) &emsp; &emsp; [![English](https://img.shields.io/badge/Language-Bengla-red?style=for-the-badge)](README.bd.md)
+
 <i>Loved the project? Please consider [donating](https://paypal.me/imaaquibali) to help it improve!</i>
 <br>
  
