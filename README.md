@@ -10,6 +10,8 @@
 <br>
 
 <i>A curated collection of awesome Github Profile READMEs</i>
+ 
+ <!-- hey im contributing in non code please accept this -->
 
 <a href="https://github.com/imaaquibali/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/imaaquibali/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/imaaquibali/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/imaaquibali/awesome-github-profile-readme" alt="Forks Badge"/></a>
