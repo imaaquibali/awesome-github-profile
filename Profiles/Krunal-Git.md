@@ -29,7 +29,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=boot)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -40,9 +40,9 @@
 
 ## Connect with me:
 
-### <img src="/img/linkedin-app.png" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/krunal-gupta-9bb6a7206)
+### <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width=15px height=15px> [LinkedIn](https://www.linkedin.com/in/krunal-gupta-9bb6a7206)
 
-### <img src="/img/twitter-app.png" width=15px height=15px> [Twitter](https://twitter.com/KrunalKRG)
+### <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width=15px height=15px> [Twitter](https://twitter.com/KrunalKRG)
 
   <br>
 
